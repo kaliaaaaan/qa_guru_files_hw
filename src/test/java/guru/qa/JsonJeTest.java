@@ -14,7 +14,7 @@ public class JsonJeTest {
     private final ClassLoader cl = JsonJeTest.class.getClassLoader();
     private final ObjectMapper objectMapper = new ObjectMapper();
 
-    @DisplayName("Проверка содержимого json файла JsonJeTest")
+    @DisplayName("РџСЂРѕРІРµСЂРєР° СЃРѕРґРµСЂР¶РёРјРѕРіРѕ json С„Р°Р№Р»Р° JsonJeTest")
     @Test
     public void checkJson() throws IOException {
         try (InputStream is = cl.getResourceAsStream("testJson.json")) {
