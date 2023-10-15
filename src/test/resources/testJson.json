@@ -1,0 +1,15 @@
+{
+  "availability": true,
+  "products": [
+    {
+      "brand": "Apple",
+      "model": "iphone 15 Pro",
+      "price": 990
+    },
+    {
+      "brand": "Apple",
+      "model": "iphone 15 Pro Max",
+      "price": 1190
+    }
+  ]
+}
